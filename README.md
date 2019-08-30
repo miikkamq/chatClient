@@ -4,7 +4,7 @@ ChatClient is a simple TCP/IP based client application which is meant to communi
 
 Included features:
  - opens a file named logfile.txt when the app is opened and saves when the app is closed. If the file does not exist, a new file is created.
- - changing username 
+ - changing your username 
  - clearing the screen
 
 C# WPF .NET Framework Application
